@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
  * print_line - prints straight line n times.
@@ -14,4 +14,4 @@ void print_line(int n)
 		_putchar(95);
 	}
 	_putchar('\n');
-
+}
